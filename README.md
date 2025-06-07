@@ -47,7 +47,7 @@ To perform customer segmentation using clustering techniques and understand how 
 
 
 ## Submission
-Submitted as part of the AI & ML Internship - Task 7.
+Submitted as part of the AI & ML Internship - Task 8.
 
 ---
 
